@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amrit-Raj12
-- 👀 I’m interested in web developer.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on any Web Development Company.
 - 📫 How to reach me :- Contact :8445138063
