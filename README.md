@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit-raj12" alt="amrit-raj12" /></a> </p>
 
-- 🔭 I’m currently working on **Accounts Project**
+- 🔭 I’m currently working at **CodeClouds IT Solution Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Node.js, Express and MongoDB**
 
