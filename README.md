@@ -24,16 +24,9 @@
 - ⚡ Fun fact **I'm Gamer 🎮🎮 too 😉😉**
 
 <h3 align="left">Connect with me:</h3> 
-- 📄 Email:- (https://drive.google.com/file/d/1gtm0uO2IEKMIs2UVIY5H9-SoH-Wq9nVq/view?usp=sharing)
-- 📄 Phone:- (+91 8445138063)
-- 📄 Linkedin:- ((https://www.linkedin.com/in/sharma-amrit)
-
-- Main item 1
-- Main item 2
-  - Subitem 2.1
-  - Subitem 2.2
-- Main item 3
-
+- Email:- (amrit.raj1224@gmail.com)
+- Phone:- (+91 8445138063)
+- Linkedin:- ((https://www.linkedin.com/in/sharma-amrit)
 <p align="left">
 </p>
 
