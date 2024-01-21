@@ -24,10 +24,10 @@
 - ⚡ Fun fact **I'm Gamer 🎮🎮 too 😉😉**
 
 <h3 align="left">Connect with me:</h3> 
+<p align="left">
 - Email:- (amrit.raj1224@gmail.com)
 - Phone:- (+91 8445138063)
 - Linkedin:- ((https://www.linkedin.com/in/sharma-amrit)
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
