@@ -24,14 +24,11 @@
 - ⚡ Fun fact **I'm Gamer 🎮🎮 too 😉😉**
 
 <h3 align="left">Connect with me:</h3> 
-- Email: [amrit.raj1224@gmail.com](mailto:amrit.raj1224@gmail.com)
-- Phone: [+91 8445138063](tel:+918445138063)
-- Linkedin: [Sharma Amrit](https://www.linkedin.com/in/sharma-amrit)
-
 <p align="left">
-- Email: [amrit.raj1224@gmail.com](mailto:amrit.raj1224@gmail.com)
-- Phone: [+91 8445138063](tel:+918445138063)
-- Linkedin: [Sharma Amrit](https://www.linkedin.com/in/sharma-amrit)
+- **Email:** [amrit.raj1224@gmail.com](mailto:amrit.raj1224@gmail.com)
+- **Phone:** [+91 8445138063](tel:+918445138063)
+- **Linkedin:** [Sharma Amrit](https://www.linkedin.com/in/sharma-amrit)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
