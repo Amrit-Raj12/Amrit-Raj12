@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-  - <strong>Email:</strong> [amrit.raj1224@gmail.com](mailto:amrit.raj1224@gmail.com)<br>
-  - <strong>Phone:</strong> [+91 8445138063](tel:+918445138063)<br>
-  - <strong>Linkedin:</strong> [Sharma Amrit](https://www.linkedin.com/in/sharma-amrit)<br>
+  - <strong>Email:</strong> amrit.raj1224@gmail.com<br>
+  - <strong>Phone:</strong>+91 8445138063<br>
+  - <strong>Linkedin:</strong>https://www.linkedin.com/in/sharma-amrit<br>
 </p>
 
 
