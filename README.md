@@ -40,3 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit-raj12&" alt="amrit-raj12" /></p>
 
+
+<p><img align="center" src="https://raw.githubusercontent.com/zingzy/zingzy/output/snake.svg" alt="amrit-raj12" /></p>
