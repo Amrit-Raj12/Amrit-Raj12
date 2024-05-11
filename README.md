@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Amrit-Raj-Sharma</h1> -->
 <!-- <h3 align="center">A passionate Frontend developer from India.</h3> -->
 
-<p align="left"> <img src="https://res.cloudinary.com/dcdchgx6z/image/upload/v1715337123/My_Bg_ejbaj7.png" alt="amrit-raj12" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/dcdchgx6z/image/upload/v1715401806/My_Bg_hagkf5.png" alt="amrit-raj12" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit-raj12&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-raj12" /> </p>
 
