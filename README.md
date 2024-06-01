@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React.js, Next.js, Html, CSS, Tailwind, Bootstrap.**
 
-- 📫 How to reach me **amrit1224@gmail.com**
+- 📫 How to reach me **amrit.raj.sharma24@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gtm0uO2IEKMIs2UVIY5H9-SoH-Wq9nVq/view?usp=sharing](https://drive.google.com/file/d/1gtm0uO2IEKMIs2UVIY5H9-SoH-Wq9nVq/view?usp=sharing)
 
@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-  - <strong>Email: </strong> amrit.raj1224@gmail.com<br>
-  - <strong>Phone: </strong>+91 8445138063<br>
-  - <strong>Linkedin: </strong>https://www.linkedin.com/in/sharma-amrit<br>
+  - <strong>Email: </strong> amrit.raj.sharma24@gmail.com<br>
+  - <strong>Phone: </strong>+91 8445138063 / +91 8954950353<br>
+  - <strong>Linkedin: </strong>https://www.linkedin.com/in/amrit-raj-sh<br>
 </p>
 
 
