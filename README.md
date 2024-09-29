@@ -29,7 +29,7 @@
 <p align="left">
   - <strong>Email: </strong> amrit.raj.sharma24@gmail.com<br>
   - <strong>Phone: </strong>+91 8445138063 / +91 8954950353<br>
-  - <strong>Linkedin: </strong>https://www.linkedin.com/in/amrit-raj-sh<br>
+<!--   - <strong>Linkedin: </strong>https://www.linkedin.com/in/amrit-raj-sh<br> -->
 </p>
 
 
