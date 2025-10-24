@@ -39,6 +39,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit-raj12&show_icons=true&locale=en&layout=compact" alt="amrit-raj12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit-raj12&show_icons=true&locale=en" alt="amrit-raj12" /></p>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CFC82547A00E9EC221DAF4B5DD2FDCFAAFFC920EDE84CC6D2CB112D0A4A7A813" target="_blank"><img width="552" height="276" alt="OCI25AICFA-badge" src="https://github.com/user-attachments/assets/015363f0-8794-467f-ad7f-b85a192d0718" /></a>
+
+
+<!-- <p>&nbsp;<img align="center" src="https://drive.google.com/file/d/1JYjvl5as9uouGzMVV6tMPhKf3IsqdD-3/view" alt="amrit-raj12" /></p> -->
 
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit-raj12&" alt="amrit-raj12" /></p>  -->
 
