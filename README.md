@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Any Type of Project**
 
-- 👨‍💻 All of my projects are available at [www.amrit-raj.tech](https://amrit-raj.netlify.app/)
+- 👨‍💻 All of my projects are available at [amrit-raj-dev.tech](https://amrit-raj-dev.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, Html, CSS, Tailwind, Bootstrap.**
 
