@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **amrit.raj.sharma24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gtm0uO2IEKMIs2UVIY5H9-SoH-Wq9nVq/view?usp=sharing](https://drive.google.com/file/d/1gtm0uO2IEKMIs2UVIY5H9-SoH-Wq9nVq/view?usp=sharing)
+- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/10N-LgO23dwTQHsaJjA_Gd9pOkGa3r5Gk/view)
 
 - ⚡ Fun fact **I'm Gamer 🎮🎮 too 😉😉**
 
