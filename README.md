@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Amrit-Raj-Sharma</h1> -->
 <!-- <h3 align="center">A passionate Frontend developer from India.</h3> -->
 
-<p align="left"> <img width="1532" height="924" alt="Portfolio New Look" src="https://github.com/user-attachments/assets/a603768e-f95f-4f1f-acc2-f008a3e7a1f2" />
- </p>
+<a href="https://amrit-raj-dev.vercel.app" target="_blank" rel="noopener noreferrer" align="left"> <img width="1532" height="924" alt="Portfolio New Look" src="https://github.com/user-attachments/assets/a603768e-f95f-4f1f-acc2-f008a3e7a1f2" />
+ </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit-raj12&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-raj12" /> </p>
 
