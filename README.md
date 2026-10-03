@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at **Fortaxe Global.**
 
-- 🌱 I’m currently learning **Node.js, Express and MongoDB**
+- 🤖 I’m currently learning **Backend Development and AI**
 
 - 👯 I’m looking to collaborate on **Ecommerce Project**
 
